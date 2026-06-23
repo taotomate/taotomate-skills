@@ -6,6 +6,7 @@ author: {your-name}
 generator_model: {model-used}
 inherited_from: {origin-path}
 model_tier: {high|medium|fast}
+allowed-tools: {Read|Edit|Write|Glob|Grep|Bash|Task|WebFetch|WebSearch}
 ---
 
 ## Context & Triggers
